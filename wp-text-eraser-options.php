@@ -1,6 +1,6 @@
 <?php
 /**
- * WP Text Eraser - Opções e configuração
+ * WP Text Eraser - Options and configs
  *
  * @package WP_Text_Eraser
  */
@@ -12,7 +12,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 const WP_TEXT_ERASER_OPTION_KEY = 'wp_text_eraser_phrases';
 
 /**
- * Registra a opção no WordPress.
+ * Make the option in the WordPress panel.
  */
 function wp_text_eraser_register_options() {
 	register_setting(
