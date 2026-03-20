@@ -1,6 +1,6 @@
 <?php
 /**
- * WP Text Eraser - Filtro de conteúdo (remove palavras na renderização)
+ * WP Text Eraser - Filtro de conteúdo (remove word in the render)
  *
  * @package WP_Text_Eraser
  */
