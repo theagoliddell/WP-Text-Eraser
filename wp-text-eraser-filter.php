@@ -1,6 +1,6 @@
 <?php
 /**
- * WP Text Eraser - Filtro de conteúdo (remove word in the render)
+ * WP Text Eraser - Content filters (remove word in the render)
  *
  * @package WP_Text_Eraser
  */
@@ -10,7 +10,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * Adiciona o filtro de conteúdo ao the_content.
+ * Add the filter to the_content.
  */
 function wp_text_eraser_add_content_filter() {
 	add_filter( 'the_content', 'wp_text_eraser_filter_content', 10, 1 );
