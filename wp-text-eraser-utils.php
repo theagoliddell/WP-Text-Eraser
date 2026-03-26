@@ -1,6 +1,6 @@
 <?php
 /**
- * WP Text Eraser - Funções utilitárias
+ * WP Text Eraser - Functions
  *
  * @package WP_Text_Eraser
  */
