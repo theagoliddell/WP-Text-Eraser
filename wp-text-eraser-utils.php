@@ -13,7 +13,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Converte texto de configuração (uma palavra/frase por linha) em array.
  *
  * @param string $text Texto com uma entrada por linha.
- * @return array Lista de strings não vazias, trimadas.
+ * @return array No Empty string lists, trimmed.
  */
 function wp_text_eraser_lines_to_array( $text ) {
 	if ( ! is_string( $text ) ) {
