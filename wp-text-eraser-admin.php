@@ -1,6 +1,6 @@
 <?php
 /**
- * WP Text Eraser - Painel administrativo e página de configuração
+ * WP Text Eraser - Adm panel and congifuration page
  *
  * @package WP_Text_Eraser
  */
