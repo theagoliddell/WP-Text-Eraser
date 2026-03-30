@@ -21,7 +21,7 @@ function wp_text_eraser_add_content_filter() {
  * Só altera a saída; the database is not modified.
  *
  * @param string $content post contents.
- * @return string Conteúdo com as frases removidas.
+ * @return string Content with removed phrases.
  */
 function wp_text_eraser_filter_content( $content ) {
 	$phrases = wp_text_eraser_get_phrases();
