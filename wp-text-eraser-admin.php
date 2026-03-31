@@ -18,7 +18,7 @@ function wp_text_eraser_admin_init() {
 }
 
 /**
- * Adiciona item no menu Configurações.
+ * Add item in the menu config.
  */
 function wp_text_eraser_add_admin_menu() {
 	add_options_page(
