@@ -31,7 +31,7 @@ function wp_text_eraser_add_admin_menu() {
 }
 
 /**
- * Add link "Configurações" na lista de plugins.
+ * Add link "Configuration" in the plugin list.
  *
  * @param array $links Links atuais.
  * @return array Links modificados.
