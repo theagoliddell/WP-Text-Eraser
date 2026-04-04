@@ -43,7 +43,7 @@ function wp_text_eraser_plugin_links( $links ) {
 }
 
 /**
- * Renderiza a página de configuração.
+ * Render the page in the configuration.
  */
 function wp_text_eraser_render_settings_page() {
 	if ( ! current_user_can( 'manage_options' ) ) {
