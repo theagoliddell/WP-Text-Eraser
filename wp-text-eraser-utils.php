@@ -31,7 +31,7 @@ function wp_text_eraser_lines_to_array( $text ) {
 }
 
 /**
- * Sanitiza uma frase para uso na lista de exclusão.
+ * Sanitiza uma frase para uso na exclusion list.
  *
  * @param string $phrase Frase ou palavra.
  * @return string Frase sanitizada.
