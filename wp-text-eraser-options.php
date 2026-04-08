@@ -37,7 +37,7 @@ function wp_text_eraser_sanitize_option( $value ) {
 }
 
 /**
- * Retorna o texto bruto da opção (uma frase por linha).
+ * Retorna o texto bruto da opção (a phrase per line).
  *
  * @return string
  */
@@ -48,7 +48,7 @@ function wp_text_eraser_get_phrases_raw() {
 /**
  * Retorna array de frases/palavras a serem removidas na renderização.
  *
- * @return array Lista de strings.
+ * @return array String list.
  */
 function wp_text_eraser_get_phrases() {
 	$raw = wp_text_eraser_get_phrases_raw();
