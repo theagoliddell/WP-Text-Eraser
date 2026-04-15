@@ -42,7 +42,7 @@ function wp_text_eraser_sanitize_phrase( $phrase ) {
 }
 
 /**
- * Escapa para uso em pattern regex (delimitadores e caracteres especiais).
+ * Escapa to use pattern regex (delimitadores e caracteres especiais).
  *
  * @param string $str String a escapar.
  * @return string String segura para preg.
