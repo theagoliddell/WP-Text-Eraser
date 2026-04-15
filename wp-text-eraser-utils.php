@@ -10,7 +10,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * Converte texto de configuração (uma palavra/frase por linha) em array.
+ * Convert the text configuration (uma palavra/frase por linha) em array.
  *
  * @param string $text Texto com uma entrada por linha.
  * @return array No Empty string lists, trimmed.
