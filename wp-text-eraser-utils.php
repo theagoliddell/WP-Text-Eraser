@@ -33,8 +33,8 @@ function wp_text_eraser_lines_to_array( $text ) {
 /**
  * Sanitize the phrase to use in the exclusion list.
  *
- * @param string $phrase Frase ou palavra.
- * @return string Frase sanitizada.
+ * @param string $phrase Phrase or word.
+ * @return string Sanitized phrase.
  */
 function wp_text_eraser_sanitize_phrase( $phrase ) {
 	$phrase = trim( (string) $phrase );
