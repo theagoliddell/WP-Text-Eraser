@@ -17,7 +17,7 @@ function wp_text_eraser_add_content_filter() {
 }
 
 /**
- * Remove string as palavras/frases configuradas.
+ * Remove string das palavras/frases configuradas.
  * Só altera a saída; the database is not modified.
  *
  * @param string $content post contents.
