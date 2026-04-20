@@ -10,7 +10,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 /**
- * Inicializa o admin: menu e página de opções.
+ * Inicializa o admin: menu and option pages.
  */
 function wp_text_eraser_admin_init() {
 	add_action( 'admin_menu', 'wp_text_eraser_add_admin_menu' );
