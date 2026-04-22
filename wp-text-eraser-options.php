@@ -37,7 +37,7 @@ function wp_text_eraser_sanitize_option( $value ) {
 }
 
 /**
- * Retorna o texto bruto da opção (a phrase per line).
+ * Retorn the text bruto da opção (a phrase per line).
  *
  * @return string
  */
