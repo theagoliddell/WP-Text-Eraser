@@ -37,7 +37,7 @@ function wp_text_eraser_sanitize_option( $value ) {
 }
 
 /**
- * Retorn the crude text in the option(a phrase per line).
+ * Return the raw text in the option (a phrase per line).
  *
  * @return string
  */
