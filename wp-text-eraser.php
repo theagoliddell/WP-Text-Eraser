@@ -3,7 +3,7 @@
  * Plugin Name: WP Text Eraser
  * Plugin URI: https://example.com/wp-text-eraser
  * Description: Remove palavras ou textos das postagens apenas na renderização, sem alterar o banco de dados. Configure uma lista de palavras/frases que não serão exibidas aos visitantes.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: WP Text Eraser
  * Author URI: https://example.com
  * License: GPL v2 or later
