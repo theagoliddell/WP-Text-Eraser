@@ -4,7 +4,7 @@
  * Plugin URI: https://theagoliddell.com/wp-text-eraser
  * Description: Remove palavras ou textos das postagens apenas na renderização, sem alterar o banco de dados. Configure uma lista de palavras/frases que não serão exibidas aos visitantes.
  * Version: 1.0.1
- * Author: Theago Liddell 2.0
+ * Author: Theago Liddell 4
  * Author URI: https://theagoliddell.com
  * License: GPL v2 or later
  * Text Domain: wp-text-eraser
